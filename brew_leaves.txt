@@ -1,0 +1,9 @@
+aspell
+fd
+git
+markdown
+pandoc
+python@3.8
+the_silver_searcher
+tldr
+tmux
